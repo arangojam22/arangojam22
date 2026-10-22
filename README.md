@@ -116,14 +116,11 @@ Relational database and PHP web application for managing football teams, players
 
 ## Project approach
 
-```text
-Plan → Configure → Test → Diagnose → Document → Improve
-```
 
 I use hands-on projects to turn technical concepts into documented evidence of my learning and problem-solving process.
 
 ## Contact
 
 - LinkedIn: [linkedin.com/in/jam-luis](https://www.linkedin.com/in/jam-luis)
-- GitHub: [github.com/arangojam22](https://github.com/arangojam22)
+
 - Location: Barcelona, Spain
