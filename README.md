@@ -2,47 +2,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,55:0E7490,100:10B981&height=180&section=header&text=Jam%20Arango&fontSize=58&fontColor=E2E8F0&fontAlignY=42&desc=ASIR%20%C2%B7%20Redes%20%C2%B7%20Sistemas%20%C2%B7%20Ciberseguridad&descAlignY=62&descSize=18&descColor=A7F3D0" alt="Cabecera de Jam Arango" width="100%" />
+<div align="center">
+  <img src="./assets/banner.svg" alt="Terminal, servidor y candado de ciberseguridad" width="100%" />
+</div>
 
 # Hola, soy **Jam Arango** 👋
 
 **Estudiante de ASIR** enfocado en administración de sistemas, redes y ciberseguridad.  
 Me interesa construir, documentar y asegurar infraestructuras de red: desde VLANs y routing hasta servicios, bases de datos y hardening básico.
 
-[LinkedIn](https://www.linkedin.com/in/jam-luis) · [GitHub](https://github.com/arangojam22) · [Projects](#featured-projects) · [Skills](#technical-skills)
-</div>
-
----
-
-## 🎯 Perfil profesional
-
-- Administración de sistemas **Linux y Windows**
-- Diseño y configuración de redes con **Cisco**
-- **VLANs, routing, NAT/PAT, ACLs y troubleshooting**
-- Bases de datos **MySQL**: modelado, consultas, triggers y procedimientos almacenados
-- Desarrollo web básico con **PHP y MySQL**
-- Interés en **ciberseguridad defensiva**, gestión de usuarios y servicios de red
-
-## 🧰 Stack y herramientas
-
-<div align="center">
-
-![Cisco](https://img.shields.io/badge/Cisco-0F172A?style=for-the-badge&logo=cisco&logoColor=22D3EE)
-![Linux](https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=10B981)
-![Windows](https://img.shields.io/badge/Windows-0F172A?style=for-the-badge&logo=windows&logoColor=22D3EE)
-![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=10B981)
-![PHP](https://img.shields.io/badge/PHP-0F172A?style=for-the-badge&logo=php&logoColor=22D3EE)
-![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=10B981)
-
-</div>
-
-## 🌐 En lo que estoy trabajando
-
-- Prácticas y laboratorios de **routing y switching**
-- Configuración de **OSPF, VLANs, ACLs y NAT**
-- Administración de usuarios, permisos y servicios
-- Proyectos de bases de datos y aplicaciones web
-- Preparándome para prácticas y mi primer puesto **junior en IT / redes**
 
 ## 📫 Contacto
 
@@ -63,6 +31,43 @@ Me interesa construir, documentar y asegurar infraestructuras de red: desde VLAN
 </div>
 
 ---
+
+
+
+## 🎯 Perfil profesional
+
+- Administración de sistemas **Linux y Windows**
+- Diseño y configuración de redes con **Cisco**
+- **VLANs, routing, NAT/PAT, ACLs y troubleshooting**
+- Bases de datos **MySQL**: modelado, consultas, triggers y procedimientos almacenados
+- Desarrollo web básico con **PHP y MySQL**
+- Interés en **ciberseguridad defensiva**, gestión de usuarios y servicios de red
+  
+  
+  
+  
+
+  
+
+
+
+
+
+
+## 🌐 En lo que estoy trabajando
+
+- Prácticas y laboratorios de **routing y switching**
+- Configuración de **OSPF, VLANs, ACLs y NAT**
+- Administración de usuarios, permisos y servicios
+- Proyectos de bases de datos y aplicaciones web
+- Preparándome para prácticas y mi primer puesto **junior en IT / redes**
+  
+  
+  
+  
+  
+
+
 
 ## About me
 
