@@ -30,7 +30,7 @@ Abierto a Prácticas IT junior.
 - **VLANs, routing, NAT/PAT, ACLs y troubleshooting**
 - Bases de datos **MySQL**: modelado, consultas, triggers y procedimientos almacenados
 - Desarrollo web básico con **PHP y MySQL**
-- Interés en **ciberseguridad defensiva**, gestión de usuarios y servicios de red
+- Interés en **ciberseguridad defensa, ataque**, gestión de usuarios y servicios de red
 
 ## 🌐 En lo que estoy trabajando
 
