@@ -19,7 +19,8 @@ Me interesa construir, documentar y asegurar infraestructuras de red: desde VLAN
 [![Email](https://img.shields.io/badge/Email-arangojam22%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=10B981)](mailto:arangojam22@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-TU_USUARIO_GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/https://github.com/arangojam22)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jam%20Arango-0F172A?style=for-the-badge&logo=linkedin&logoColor=10B981)](https://www.linkedin.com/in/en/jam-luis)
-![Open to work](https://img.shields.io/badge/Abierto_a_pr%C3%A1cticas_y_junior_IT-0F172A?style=for-the-badge&labelColor=0F172A&color=10B981)
+
+Abierto a Prácticas IT junior.
 
 </div>
 
