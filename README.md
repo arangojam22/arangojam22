@@ -1,9 +1,7 @@
 <!-- Paleta profesional: gris carbón #0F172A · esmeralda #10B981 · cian #22D3EE · texto claro #E2E8F0 -->
 
 <div align="center">
-
-<div align="center">
-  <img src="./assets/banner.svg" alt="Terminal, servidor y candado de ciberseguridad" width="100%" />
+  <img src="./cyber-ops.png" alt="Cybersecurity & IT Operations" width="450" style="border-radius: 10px;" />
 </div>
 
 # Hola, soy **Jam Arango** 👋
@@ -11,29 +9,19 @@
 **Estudiante de ASIR** enfocado en administración de sistemas, redes y ciberseguridad.  
 Me interesa construir, documentar y asegurar infraestructuras de red: desde VLANs y routing hasta servicios, bases de datos y hardening básico.
 
-
 ## 📫 Contacto
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-arangojam22%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=10B981)](mailto:arangojam22@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-TU_USUARIO_GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/https://github.com/arangojam22)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jam%20Arango-0F172A?style=for-the-badge&logo=linkedin&logoColor=10B981)](https://www.linkedin.com/in/en/jam-luis)
+[![GitHub](https://img.shields.io/badge/GitHub-arangojam22-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/arangojam22)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jam%20Arango-0F172A?style=for-the-badge&logo=linkedin&logoColor=10B981)](https://www.linkedin.com/in/jam-luis)
 
 Abierto a Prácticas IT junior.
 
 </div>
 
 ---
-
-<div align="center">
-
-
-</div>
-
----
-
-
 
 ## 🎯 Perfil profesional
 
@@ -43,17 +31,6 @@ Abierto a Prácticas IT junior.
 - Bases de datos **MySQL**: modelado, consultas, triggers y procedimientos almacenados
 - Desarrollo web básico con **PHP y MySQL**
 - Interés en **ciberseguridad defensiva**, gestión de usuarios y servicios de red
-  
-  
-  
-  
-
-  
-
-
-
-
-
 
 ## 🌐 En lo que estoy trabajando
 
@@ -62,13 +39,6 @@ Abierto a Prácticas IT junior.
 - Administración de usuarios, permisos y servicios
 - Proyectos de bases de datos y aplicaciones web
 - Preparándome para prácticas y mi primer puesto **junior en IT / redes**
-  
-  
-  
-  
-  
-
-
 
 ## About me
 
@@ -117,11 +87,9 @@ Relational database and PHP web application for managing football teams, players
 
 ## Project approach
 
-
 I use hands-on projects to turn technical concepts into documented evidence of my learning and problem-solving process.
 
 ## Contact
 
 - LinkedIn: [linkedin.com/in/jam-luis](https://www.linkedin.com/in/jam-luis)
-
 - Location: Barcelona, Spain
